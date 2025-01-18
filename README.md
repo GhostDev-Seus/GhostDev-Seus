@@ -16,9 +16,10 @@
 
 ## Estadisticas
 
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostDev-Seus&layout=compact)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhostDev-Seus&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/GhostDev-Seus/github-readme-stats)
+
 
 ### IA
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white) ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
